@@ -1,1 +1,1 @@
-fixture A1 src/shared.ts
+fixture D1 src/shared.ts

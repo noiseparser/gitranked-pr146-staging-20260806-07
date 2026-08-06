@@ -1,1 +1,1 @@
-fixture C1 src/core.ts
+fixture D1 src/core.ts
